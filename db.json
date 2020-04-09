@@ -1,0 +1,43 @@
+{
+  "donations": {
+    "2019": [
+      {
+        "date": "12-25-2019",
+        "organization": "Kinecta Community Foundation",
+        "type": "one Time",
+        "amount": 30,
+        "id": 1103
+      },
+      {
+        "date": "12-12-2019",
+        "organization": "Children's Miracle Network",
+        "type": "Enrollment",
+        "amount": 5,
+        "id": 1102
+      },
+      {
+        "date": "08-15-2019",
+        "organization": "Children's Miracle Network",
+        "type": "One Time",
+        "amount": 30,
+        "id": 1101
+      }
+    ],
+    "2020": [
+      {
+        "date": "01-18-2020",
+        "organization": "Kinecta Community Foundation",
+        "type": "One Time",
+        "amount": 30,
+        "id": 1104
+      },
+      {
+        "date": "01-12-2020",
+        "organization": "Children's Miracle Network",
+        "type": "Enrollment",
+        "amount": 5,
+        "id": 1102
+      }
+    ]
+  }
+}
